@@ -1,6 +1,4 @@
-<p align="left">
-<a href="https://twitter.com/xmadusanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sankalk_" height="30" width="40" /></a>
-</p>
+
 
 # Sinhala Unicode Converter
 
